@@ -1,0 +1,81 @@
+//Transunion
+
+CREDIT SCORE:
+A credit score is a measure of an individual's ability to pay back the borrowed amount. 
+It is the numerical representation of their creditworthiness.
+
+VIDEO 1
+Factors responsible for your credit score:
+1. Payment_history (most important and accounts for 35% of your credit score)
+	- Avoid late payments at all cost
+	
+2. Amounts owed(roughly accounts to 30%)
+	- Your credit score will go low if u rarely using your credit amount
+	- You wanna show that you can handle some debts easily
+	
+3. Length of your credit history ( account to around 15%)
+	- The longer you have been borrowing, the better
+	
+4. types of credit(10%)
+	- sees the sources of loan that you use such as car loan, mortgage, credit card, (the more diverse the better)
+	- shows a track record of how good or bad you are at managing money
+
+
+5. New credit
+	- how often do you take credit you dont need like applying for a credit card at 5 different stores
+	- many credit card respons to unresponsible spending
+	-Also, when people apply for credit frequently, it probably indicates financial pressures, so every time you apply for credit, your score gets dinged a little
+	
+	
+VIDEO 2
+1. NUMBER OF ACCOUNTS
+	-number of payments you have in your name
+
+2. Types of accounts
+	- auto loans or credit cards
+	
+3. credit score vs total score
+	- how much credit are you using vs how much do you have
+
+4. Length of credit
+	- how long did you have your credit for
+
+5. Payment history on all credit lines
+
+#payment history
+	- lenders would see have u missed payments, if so then how many
+	
+#Amounts Owed
+	- lenders would see your debt to income ratio
+	- how much debt you pay off each month vs how much money u bringing in(salary)
+	- the ratio should be generally kept at 43% at high side(the lower you are the better)
+	-  Credit score formulas assume that borrowers who continually spend up to or above their credit limit are potential risks.Lenders typically like to see credit utilization ratios—the percentage of available credit that you actually use—below 30%.
+	
+#Credit Mix
+	-lenders wants to see good mix of accounts
+	- lenders see like if others have given u loans like auto loans so they would think that they can give u too
+	-Lenders like to see a healthy credit mix that shows that you can successfully manage different types of credit. Revolving credit (credit cards, retail store cards, gas station cards, lines of credit) and installment credit (mortgages, auto loans, student loans) should both be represented, if possible
+	
+All of these categories are taken into account in your overall score, which can range from 300 to 850
+
+how credit score is generally calculated
+https://www.investopedia.com/ask/answers/05/creditscorecalculation.asp
+
+
+credit score	| Rating
+360-580			| Subprime
+580-640			| Average
+640-700			| Good
+700-750			| Very good
+750-850			| Excellent
+
+SBI (Public Bank)
+-Goes for High credit scores and avoids subprime credit
+-Believes in low risk low reward
+
+Bajaj Finserv(New entrant)
+-Goes for low Credit scores as well and also proceeds with subprime credit
+-believes in high risk high reward
+
+Subprime mortgages : A type of loan granted to indivuduals with poor credit score
+
